@@ -1,5 +1,24 @@
 # EDA-Using-SQL
 # Laptop Data Analysis - SQL Case Study
+## This case study covers essential SQL data analysis techniques including:
+
+- Data exploration (head, tail, random sampling)
+
+- Statistical calculations (mean, median, quartiles, standard deviation)
+
+- Missing value detection and imputation (overall mean and group-based mean)
+
+- Outlier detection using IQR method
+
+- Price distribution analysis with bucketing
+
+- Categorical analysis with CASE statements
+
+- Grouped aggregations by company
+
+- Feature engineering (PPI calculation, screen size categorization)
+
+- One-hot encoding for categorical variables
 
 ## Questions and Answers
 
